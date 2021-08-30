@@ -1,0 +1,69 @@
+
+
+.titulo {
+    font-weight: bolder;
+      color: #000015;
+      background:
+      linear-gradient(45deg, #000015 50%, transparent 0) right /250% 100% no-repeat,
+      linear-gradient(45deg, transparent 50%, #000015 0) left /250% 100% no-repeat;
+    transition: 0.5s;
+  }
+  .titulo:hover {
+      
+    background-position: center;
+    color: #fff;
+  }
+
+
+
+.about-desc .titulo {
+    padding: 100px 0 100px 0;
+    font-size: 34px;
+    
+    margin-bottom: 70px;
+    text-align: center;
+    
+
+}
+
+.about-desc {
+    
+    
+    
+    
+    text-align: center;
+    margin-bottom: 50vh;
+    
+}
+* {
+  box-sizing: border-box;
+}
+
+div {
+  display: block;
+}
+
+
+.contenedor-habilidades .habilidad { 
+    font-weight: bolder;
+    color: #000015;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+ .habilidades .contenedor-habilidades .habilidad .thumb {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
