@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tomasgz7/Portafolio/static/css/main.9925cd49.chunk.css",
+    "main.js": "/tomasgz7/Portafolio/static/js/main.6197d82e.chunk.js",
+    "main.js.map": "/tomasgz7/Portafolio/static/js/main.6197d82e.chunk.js.map",
+    "runtime-main.js": "/tomasgz7/Portafolio/static/js/runtime-main.04e14c13.js",
+    "runtime-main.js.map": "/tomasgz7/Portafolio/static/js/runtime-main.04e14c13.js.map",
+    "static/js/2.2c7a2d93.chunk.js": "/tomasgz7/Portafolio/static/js/2.2c7a2d93.chunk.js",
+    "static/js/2.2c7a2d93.chunk.js.map": "/tomasgz7/Portafolio/static/js/2.2c7a2d93.chunk.js.map",
+    "index.html": "/tomasgz7/Portafolio/index.html",
+    "static/css/main.9925cd49.chunk.css.map": "/tomasgz7/Portafolio/static/css/main.9925cd49.chunk.css.map",
+    "static/js/2.2c7a2d93.chunk.js.LICENSE.txt": "/tomasgz7/Portafolio/static/js/2.2c7a2d93.chunk.js.LICENSE.txt",
+    "static/media/coverVideo.5e148c47.mp4": "/tomasgz7/Portafolio/static/media/coverVideo.5e148c47.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e14c13.js",
+    "static/js/2.2c7a2d93.chunk.js",
+    "static/css/main.9925cd49.chunk.css",
+    "static/js/main.6197d82e.chunk.js"
+  ]
+}
